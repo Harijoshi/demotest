@@ -5,7 +5,7 @@
 	<body style="background-color:green;">
 		<p>Hello SDET- you are the future of AQE</p>
 		<input type="text" id="myText" value="">
-						<button onclick="myFunction()">Click Now</button>		
+						<button onclick="myFunction()">Click Here</button>		
 						<p id="demo"></p>
 						<script>
 						function myFunction() {
